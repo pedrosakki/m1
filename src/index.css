@@ -1,0 +1,8 @@
+
+.bg {
+background-image: url("/escudo.png");
+height: 25vh;
+background-position: center center;
+background-repeat: no-repeat;
+background-size: contain;
+}
